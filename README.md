@@ -12,7 +12,7 @@ Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-le
 
 ## 相关资源
 
-1. [《如何使用本书》（写在第十次印刷之际）和勘误](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm#%BF%B1%CE%F3%D0%DE%B6%A9)
+1. [《如何使用本书（写在第十次印刷之际）》和勘误](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm#%BF%B1%CE%F3%D0%DE%B6%A9)
 
 2. [《南瓜书》](https://datawhalechina.github.io/pumpkin-book/#/)等等
 
