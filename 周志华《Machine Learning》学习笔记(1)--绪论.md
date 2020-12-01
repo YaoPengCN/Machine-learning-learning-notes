@@ -39,7 +39,7 @@
 计算机程序学习经验数据生成算法模型的过程中，每一条记录称为一个“训练样本”，同时在训练好模型后，我们希望使用新的样本来测试模型的效果，则每一个新的样本称为一个“测试样本”。
 定义：
 
-- 所有训练样本的集合为：训练集（trainning set），[特殊]。
+- 所有训练样本的集合为：训练集（training set），[特殊]。
 - 所有测试样本的集合为：测试集（test set），[一般]。  
 - 机器学习出来的模型适用于新样本的能力为：泛化能力（generalization），即从特殊到一般。
 
@@ -144,11 +144,11 @@ NFL最重要的寓意：讨论学习算法的相对优劣，必须结合具体�
 
 [Mitchell, 1997][Duda et al., 2001; Alpaydin, 2004; Flach, 2012] 等等。
 
-机器学习重要会议：国际机器学习会议（ICML）、国际神经信息处理系统会议（NIPS）和国际学习理论会议（CLOLT）等等。
+机器学习重要会议：国际机器学习会议（ICML）、国际神经信息处理系统会议（NIPS）和国际学习理论会议（COLT）等等。
 重要期刊：*Journal of machine Learning Research*，*Machine Learning* 等等。
 
 人工智能重要会议：IJCAI、AAAI等等。
-重要期刊：*Artificial Interlligence*、*Journal of Artificial Intellgence Research* 等等。
+重要期刊：*Artificial Intelligence*、*Journal of Artificial Intelligence Research* 等等。
 
 数据挖掘重要会议：KDD、ICDM等等。
 重要期刊：*ACM Transactions on Knowledge Discovery from Data*、*Data Mining and Knowledge Discovery* 等等。
@@ -158,7 +158,7 @@ NFL最重要的寓意：讨论学习算法的相对优劣，必须结合具体�
 
 神经网络和统计学领域重要期刊：*Neural Computation*、*IEEE Transactions on Neural Networks and Learning Systems*、*Annals of Statistics* 等等。
 
-**2  模型的评估与选择**
+## 第2章  模型的评估与选择
 
 **2.1 误差与过拟合**
 
